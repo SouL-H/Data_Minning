@@ -1,0 +1,2 @@
+## k-ford Coss Validation algoritması diğer algoritmalardan farklı olarak ayırdığımız tahmin verilerinide tekrardan işlemesidir.
+##Kaynak kodda detayını açıkladım.İncelediğinizde daha detaylı görebileceksiniz.

@@ -1,0 +1,2 @@
+## Verilen Wine veri setindeki 13 boyutu ilk baş PCA daha sonrasında LDA ile 2 boyuta indirgedik.
+## Confusion Matrix ile orjinal başarısını -PCA -LDA algoritmaları ile indirgeme yapıp başarılarını tekrar ölçtük.
